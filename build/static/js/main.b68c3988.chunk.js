@@ -1,2 +1,0 @@
-(this["webpackJsonpbasic-banking-system"]=this["webpackJsonpbasic-banking-system"]||[]).push([[0],{11:function(n,t,e){"use strict";e.r(t);var c=e(1),i=e.n(c),s=e(3),r=e.n(s),a=(e(8),e(9),e(0));var o=function(){return Object(a.jsx)("div",{children:"React Api"})};r.a.render(Object(a.jsx)(i.a.StrictMode,{children:Object(a.jsx)(o,{})}),document.getElementById("root"))},8:function(n,t,e){},9:function(n,t,e){}},[[11,1,2]]]);
-//# sourceMappingURL=main.b68c3988.chunk.js.map
