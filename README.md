@@ -15,7 +15,8 @@ A banking system built with MERN stack, and uses API's. This banking system enab
   * Redux to manage application's state
 
 ## Demo
-This application is deployed on Heroku. Please check it out 😄 [here](https://kashish-banking-system.herokuapp.com/ "here title").
+This application is deployed on Heroku. Please check it out [here](https://kashish-banking-system.herokuapp.com/ "here title") 😄.
+#### [Youtube link](https://youtu.be/-mIVkJUJ4yM "Youtube link") 
 ## Install
 Some basic Git commands are:
 ```
